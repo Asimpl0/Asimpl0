@@ -3,7 +3,7 @@
 
 ### Hi there, I'm [JAN!](https://github.com/Asimpl0) 👋
 
-- 🔭 I’m currently working on My Study
+- 🔭 I’m currently working on ..
 
 - 🌱 I’m currently learning JAVA
 <!--
