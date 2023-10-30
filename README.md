@@ -3,9 +3,9 @@
 
 ### Hi there, I'm [JAN!](https://github.com/Asimpl0) 👋
 
-- 🔭 I’m currently working on ..
+- 🔭 I’m currently working on Linux Kernel
 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning RUST
 <!--
 **Asimpl0/Asimpl0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
